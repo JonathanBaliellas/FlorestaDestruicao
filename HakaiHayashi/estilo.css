@@ -1,0 +1,112 @@
+body{
+    /*
+    background-image: url(https://images.pexels.com/photos/1671324/pexels-photo-1671324.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260);
+    background-size: cover ;
+    */
+    font: normal 14pt calibri;
+    background-color: rgba(23, 39, 27, 0.877);   
+    color: rgba(255, 255, 255, 0.747);
+}
+
+header {
+    text-align: center;    
+}
+
+img#logo{
+    width: 500px;
+}
+
+footer{
+    text-align: center;
+}
+
+section{
+    border-color: white;
+    border-style: inset;
+    border-width: 1px;
+    padding: 0px 20px 20px 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+    width: 1000px;
+    margin: auto;
+}
+
+#secStatus{
+    margin-bottom: 15px;
+}
+
+button{
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
+#spnItalic{
+    font-style: italic;
+    font-size: small;
+}
+
+div#txt{
+    margin: auto;
+    padding: 5px;
+}
+
+div#intUser{
+    margin: auto;
+    padding: 5px;
+    text-align: center;
+}
+
+table {
+    border: 1px #c0c0c0 solid;
+    width: 150px;
+  }
+  table th {
+    background-color: rgb(63, 63, 63);
+    color: #fff;
+  }
+  table td {
+    background-color: #bbb9b9;
+    color: #0c0c0c;
+    text-align: center;
+}
+
+table#tabPocao{
+    width: 500px; 
+    margin: auto;   
+}
+    .col1{
+        width: 200px;
+        height: 45px;
+        text-align: left;
+    }
+
+    .col2{
+        text-align: left;
+        padding: 5px;
+    }
+    
+    .colAtrib{
+        text-align: left;
+    }
+
+.tdArtigo{
+    text-align: left;
+}
+
+.txtQuant{
+    width: 40px;
+}
+
+table#tabListaEquip{
+    width: 350px;
+    margin: auto;
+}
+
+.colItens{    
+    text-align: left;
+}
+
+.colTxt{
+    text-align: left;
+    width: 80px;
+}
